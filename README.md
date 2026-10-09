@@ -1,5 +1,5 @@
-# CampusCode
- Campus Code is an online platform for students that combines programming studies, coding challenges, and a competitive format.
+# UniCode
+ UniCode is an online platform for students that combines programming studies, coding challenges, and a competitive format.
 
 1) **Про платформу**
 
@@ -23,7 +23,7 @@
 
 Користувач пише код у вбудованому редакторі та надсилає його на перевірку. Код запускається через **Judge0** та перевіряється на тестових даних.
 
-Результат:
+Результат: (1 версія)
 
 * правильне рішення;
 * неправильна відповідь;
