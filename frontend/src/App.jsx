@@ -1,13 +1,14 @@
 import MainLayout from './layouts/MainLayout'
+import DashboardPage from './pages/DashboardPage'
 
 import './App.css'
 
 function App() {
   return (
     <MainLayout>
-      <h1>hello</h1>
+      <DashboardPage></DashboardPage>
     </MainLayout>
   )
 }
 
-export default App
+export default App;
